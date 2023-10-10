@@ -1,7 +1,7 @@
 {
   "name": "alpine-nodejs-18.18.0",
   "version": "0.1.0",
-  "description": "基于alpine+nodejs+npm+git+mongodb-tools 的镜像",
+  "description": "基于 alpine+nodejs+npm+git+mongodb-tools 的镜像",
   "author": "CaoMeiYouRen",
   "private": true,
   "license": "MIT",
