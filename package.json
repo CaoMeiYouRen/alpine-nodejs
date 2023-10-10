@@ -1,5 +1,5 @@
 {
-  "name": "alpine-nodejs-18.18.0",
+  "name": "alpine-nodejs",
   "version": "0.1.0",
   "description": "基于 alpine+nodejs+npm+git+mongodb-tools 的镜像",
   "author": "CaoMeiYouRen",
@@ -51,13 +51,13 @@
   "engines": {
     "node": ">=14"
   },
-  "homepage": "https://github.com/CaoMeiYouRen/alpine-nodejs-18.18.0#readme",
+  "homepage": "https://github.com/CaoMeiYouRen/alpine-nodejs#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CaoMeiYouRen/alpine-nodejs-18.18.0.git"
+    "url": "git+https://github.com/CaoMeiYouRen/alpine-nodejs.git"
   },
   "bugs": {
-    "url": "https://github.com/CaoMeiYouRen/alpine-nodejs-18.18.0/issues"
+    "url": "https://github.com/CaoMeiYouRen/alpine-nodejs/issues"
   },
   "changelog": {
     "language": "zh"
