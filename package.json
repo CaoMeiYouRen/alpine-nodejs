@@ -1,6 +1,6 @@
 {
   "name": "alpine-nodejs",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "基于 alpine+nodejs+npm+git+mongodb-tools 的镜像",
   "author": "CaoMeiYouRen",
   "private": true,
