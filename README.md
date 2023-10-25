@@ -17,7 +17,7 @@
 </p>
 
 
-> 基于 alpine+nodejs+npm+git+mongodb-tools 的镜像
+> 基于 alpine+nodejs+npm+git 的镜像
 
 ## 🏠 主页
 
