@@ -6,6 +6,14 @@
 ### 🐛 Bug 修复
 
 * 更新 nodejs 版本；移除 mongodb-tools ([49170a0](https://github.com/CaoMeiYouRen/alpine-nodejs/commit/49170a0))
+* 移除 未安装的 mongodump ([81b204b](https://github.com/CaoMeiYouRen/alpine-nodejs/commit/81b204b))
+
+## [1.0.1](https://github.com/CaoMeiYouRen/alpine-nodejs/compare/v1.0.0...v1.0.1) (2023-10-25)
+
+
+### 🐛 Bug 修复
+
+* 更新 nodejs 版本；移除 mongodb-tools ([49170a0](https://github.com/CaoMeiYouRen/alpine-nodejs/commit/49170a0))
 
 # 1.0.0 (2023-10-10)
 
